@@ -29,36 +29,6 @@
       "age": 18,
       "address": "407 Main St",
       "grades": [84, 89, 94]
-    },
-    {
-      "name": "Student 6",
-      "age": 18,
-      "address": "388 Randolph Ave",
-      "grades": [81, 94, 85]
-    },
-    {
-      "name": "Student 7",
-      "age": 18,
-      "address": "474 Randolph Ave",
-      "grades": [97, 80, 87]
-    },
-    {
-      "name": "Student 8",
-      "age": 18,
-      "address": "178 Randolph Ave",
-      "grades": [99, 86, 92]
-    },
-    {
-      "name": "Student 9",
-      "age": 17,
-      "address": "893 Randolph Ave",
-      "grades": [89, 99, 83]
-    },
-    {
-      "name": "Student 10",
-      "age": 18,
-      "address": "263 Park Ave",
-      "grades": [99, 96, 98]
     }
   ]
 }
