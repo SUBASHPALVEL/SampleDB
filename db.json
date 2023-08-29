@@ -89,66 +89,6 @@
       "age": 17,
       "address": "319 Main St",
       "grades": [85, 84, 95]
-    },
-    {
-      "name": "Student 16",
-      "age": 18,
-      "address": "827 Main St",
-      "grades": [83, 81, 81]
-    },
-    {
-      "name": "Student 17",
-      "age": 18,
-      "address": "154 Main St",
-      "grades": [94, 83, 83]
-    },
-    {
-      "name": "Student 18",
-      "age": 18,
-      "address": "689 Park Ave",
-      "grades": [88, 95, 85]
-    },
-    {
-      "name": "Student 19",
-      "age": 18,
-      "address": "701 Main St",
-      "grades": [100, 95, 99]
-    },
-    {
-      "name": "Student 20",
-      "age": 17,
-      "address": "350 Main St",
-      "grades": [81, 92, 100]
-    },
-    {
-      "name": "Student 21",
-      "age": 18,
-      "address": "502 Main St",
-      "grades": [87, 82, 99]
-    },
-    {
-      "name": "Student 22",
-      "age": 18,
-      "address": "599 Main St",
-      "grades": [85, 90, 85]
-    },
-    {
-      "name": "Student 23",
-      "age": 17,
-      "address": "685 Randolph Ave",
-      "grades": [84, 83, 91]
-    },
-    {
-      "name": "Student 24",
-      "age": 18,
-      "address": "489 Main St",
-      "grades": [98, 93, 94]
-    },
-    {
-      "name": "Student 25",
-      "age": 17,
-      "address": "456 Randolph Ave",
-      "grades": [84, 93, 92]
     }
   ]
 }
