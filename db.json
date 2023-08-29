@@ -1,0 +1,19 @@
+{
+    "students": [
+      {
+        "name": "John Doe",
+        "age": 17,
+        "grades": [90, 88, 92] 
+      },
+      {
+        "name": "Jane Doe",
+        "age": 18, 
+        "grades": [95, 90, 93]
+      },
+      {
+        "name": "Jack Hill",
+        "age": 18,
+        "grades": [85, 80, 82]
+      }
+    ]
+  }
