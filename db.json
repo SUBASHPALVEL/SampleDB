@@ -4,31 +4,31 @@
       "name": "Student 1",
       "age": 18,
       "address": "230 Main St",
-      "grades": [89, 86, 98]
+      "grade": "O"
     },
     {
       "name": "Student 2",
       "age": 18,
       "address": "285 Main St",
-      "grades": [92, 99, 100]
+      "grade": "B"
     },
     {
       "name": "Student 3",
       "age": 17,
       "address": "982 Park Ave",
-      "grades": [90, 96, 92]
+      "grade": "B+"
     },
     {
       "name": "Student 4",
       "age": 17,
       "address": "973 Main St",
-      "grades": [92, 85, 83]
+      "grade": "C"
     },
     {
       "name": "Student 5",
       "age": 18,
       "address": "407 Main St",
-      "grades": [84, 89, 94]
+      "grade": "O"
     }
   ]
 }
