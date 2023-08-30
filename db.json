@@ -2,32 +2,27 @@
   "students": [
     {
       "name": "Student 1",
-      "age": 18,
-      "address": "230 Main St",
+      "age": 001,
       "grade": "O"
     },
     {
       "name": "Student 2",
       "age": 18,
-      "address": "285 Main St",
       "grade": "B"
     },
     {
       "name": "Student 3",
       "age": 17,
-      "address": "982 Park Ave",
       "grade": "B+"
     },
     {
       "name": "Student 4",
       "age": 17,
-      "address": "973 Main St",
       "grade": "C"
     },
     {
       "name": "Student 5",
       "age": 18,
-      "address": "407 Main St",
       "grade": "O"
     }
   ]
